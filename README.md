@@ -1,7 +1,7 @@
 3. ##**EX.NO:
 ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
+
              3A INTEGRATOR
 ---
 
@@ -50,7 +50,10 @@ CIRCUIT DIAGRAM
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+We get , R1 =	and hence Rf ,
+<img width="1022" height="1489" alt="image" src="https://github.com/user-attachments/assets/816a78cc-e7e6-4600-9487-925e7ff7d63f" />
+
+
 
 ## PROCEDURE
 
@@ -61,15 +64,13 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="987" height="1373" alt="image" src="https://github.com/user-attachments/assets/57d6bcad-45ac-4a8c-b6b1-2d4fc2fea2b5" />
+
+## GRAPH
+<img width="1016" height="1346" alt="image" src="https://github.com/user-attachments/assets/132fbeb3-51a2-4712-9ed3-23bc5c612828" />
+
 
 ---
-
-## OUT PUT WAVEFORM AND DISCUSSION 
 
 
 ---
@@ -139,6 +140,8 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.59KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
+<img width="972" height="1348" alt="image" src="https://github.com/user-attachments/assets/a94b83ba-edac-40b1-ab2b-936e4b8737e3" />
+
 
 
 ## PROCEDURE
@@ -149,13 +152,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="889" height="1414" alt="image" src="https://github.com/user-attachments/assets/9ae28e73-d726-4d93-9fd5-20c472d158b1" />
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## GRAPH
+<img width="931" height="1305" alt="image" src="https://github.com/user-attachments/assets/30418b33-2349-4361-872a-9061f2223bbe" />
+
+
 
 ---
 
