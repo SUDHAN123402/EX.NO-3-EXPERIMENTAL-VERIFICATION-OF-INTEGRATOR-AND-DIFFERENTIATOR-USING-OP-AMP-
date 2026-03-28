@@ -51,7 +51,7 @@ CIRCUIT DIAGRAM
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
 We get , R1 =	and hence Rf ,
-<img width="848" height="1415" alt="image" src="https://github.com/user-attachments/assets/0290e0be-f612-4b34-847c-cea2ea65722b" />
+<img width="1022" height="1489" alt="image" src="https://github.com/user-attachments/assets/5e776571-fd8c-4b33-a532-a0f852350624" />
 
 
 
@@ -64,10 +64,10 @@ We get , R1 =	and hence Rf ,
 
 
 ## TABULATION
-<img width="853" height="925" alt="image" src="https://github.com/user-attachments/assets/ecaff8da-d22d-4257-8992-574cb0971a62" />
+<img width="987" height="1373" alt="image" src="https://github.com/user-attachments/assets/3f8063fe-9777-47aa-814f-5a8d435316ed" />
 
 ## GRAPH
-<img width="1050" height="1387" alt="image" src="https://github.com/user-attachments/assets/059be0f2-d809-4205-ac48-e857a71d8a7e" />
+<img width="1016" height="1346" alt="image" src="https://github.com/user-attachments/assets/5bfd2a0c-3429-4b0e-87e0-b663c347abcb" />
 
 
 ---
@@ -140,7 +140,7 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.59KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
-<img width="934" height="931" alt="image" src="https://github.com/user-attachments/assets/3672aa92-f0ae-4e0b-9525-a9a38be81ad1" />
+<img width="972" height="1348" alt="image" src="https://github.com/user-attachments/assets/fc9e98c9-55f0-4a90-8bb1-b8e9f56e7c22" />
 
 
 
@@ -152,10 +152,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-<img width="853" height="1137" alt="image" src="https://github.com/user-attachments/assets/e5e45d7d-30ff-4d8f-b510-7e00daeb18b0" />
+<img width="889" height="1414" alt="image" src="https://github.com/user-attachments/assets/25a899f1-7d8c-47fe-bc50-c12fbffe5b6b" />
 
 ## GRAPH
-<img width="1080" height="1448" alt="image" src="https://github.com/user-attachments/assets/9745bef6-8861-4fdd-a29f-91d572a96057" />
+<img width="931" height="1305" alt="image" src="https://github.com/user-attachments/assets/d825b041-354b-48c8-b661-f15f23738f29" />
 
 
 
